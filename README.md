@@ -1,6 +1,3 @@
-I’m happy to share this MADHAV ECOMMERCE SALES DASHBOARD project I worked on. All thanks to @Rishabh Mishra for teaching it in the simplest way possible
-Created a comprehensive Power BI dashboard for Madhav Ecommerce sales, focusing on key metrics like profit, order quantity, and state-wise contributions. Adding information about top performers and average order value further enhances the depth of insights.
-
 Here's an overview of how you can present these aspects in your dashboard:
 
 Top Performers:
