@@ -1,4 +1,4 @@
-Here's an overview of how you can present these aspects in your dashboard:
+Here's an overview of how I present these aspects in your dashboard:
 
 Top Performers:
 Create a visual representation of top-performing subcategories or products based on sales or profit. You can use visuals like bar charts, tables, or cards to display the highest performers.
